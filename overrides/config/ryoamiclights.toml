@@ -1,0 +1,275 @@
+
+[light_sources]
+	water_sensitive_check = true
+	block_entities = true
+	entities = true
+	self = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				panda = true
+				bee = true
+				axolotl = true
+				arrow = true
+				cow = true
+				magma_cube = true
+				pig = true
+				allay = true
+				llama = true
+				skeleton = true
+				bat = true
+				frog = true
+				husk = true
+				hoglin = true
+				camel = true
+				rabbit = true
+				silverfish = true
+				armor_stand = true
+				drowned = true
+				experience_orb = true
+				dolphin = true
+				item = true
+				turtle = true
+				salmon = true
+				wither_skeleton = true
+				vex = true
+				piglin_brute = true
+				goat = true
+				ocelot = true
+				item_frame = true
+				horse = true
+				vindicator = true
+				phantom = true
+				ender_dragon = true
+				evoker = true
+				mooshroom = true
+				glow_squid = true
+				glow_item_frame = true
+				squid = true
+				parrot = true
+				creeper = true
+				enderman = true
+				chicken = true
+				ravager = true
+				donkey = true
+				chest_minecart = true
+				tropical_fish = true
+				fox = true
+				slime = true
+				pillager = true
+				iron_golem = true
+				zombified_piglin = true
+				piglin = true
+				blaze = true
+				cat = true
+				zombie = true
+				guardian = true
+				ghast = true
+				sheep = true
+				player = true
+				pufferfish = true
+				illusioner = true
+				eye_of_ender = true
+				wolf = true
+				villager = true
+				zombie_villager = true
+				elder_guardian = true
+				polar_bear = true
+				strider = true
+				painting = true
+				cave_spider = true
+				cod = true
+				witch = true
+				spider = true
+				trident = true
+
+			[light_sources.settings.entities.alexscaves]
+				hullbreaker = true
+				gammaroach = true
+				tripodfish = true
+				deep_one_knight = true
+				deep_one_mage = true
+				lanternfish = true
+				subterranodon = true
+				gossamer_worm = true
+				deep_one = true
+				nucleeper = true
+				mine_guardian = true
+				mine_guardian_anchor = true
+				brainiac = true
+				vallumraptor = true
+				submarine = true
+				grottoceratops = true
+				sea_pig = true
+				trilocaris = true
+				relicheirus = true
+				raycat = true
+				radgill = true
+
+			[light_sources.settings.entities.betternether]
+				firefly = true
+				hydrogen_jellyfish = true
+				jungle_skeleton = true
+				skull = true
+				naga = true
+
+			[light_sources.settings.entities.bclib]
+				chair = true
+
+			[light_sources.settings.entities.alexsmobs]
+				murmur_head = true
+				kangaroo = true
+				skelewag = true
+				blue_jay = true
+				bone_serpent_part = true
+				cachalot_echo = true
+				catfish = true
+				anteater = true
+				laviathan = true
+				tasmanian_devil = true
+				centipede_tail = true
+				cosmic_cod = true
+				rhinoceros = true
+				endergrade = true
+				mungus = true
+				skunk = true
+				dropbear = true
+				bunfungus = true
+				roadrunner = true
+				rattlesnake = true
+				leafcutter_ant = true
+				lobster = true
+				grizzly_bear = true
+				snow_leopard = true
+				rocky_roller = true
+				centipede_head = true
+				orca = true
+				maned_wolf = true
+				crow = true
+				banana_slug = true
+				elephant = true
+				crocodile = true
+				stradpole = true
+				crimson_mosquito = true
+				spectre = true
+				seal = true
+				hammerhead_shark = true
+				sunbird = true
+				straddler = true
+				emu = true
+				triops = true
+				gazelle = true
+				soul_vulture = true
+				underminer = true
+				enderiophage = true
+				terrapin = true
+				gorilla = true
+				flying_fish = true
+				platypus = true
+				capuchin_monkey = true
+				cockroach = true
+				murmur = true
+				komodo_dragon = true
+				bone_serpent = true
+				centipede_body = true
+				seagull = true
+				mantis_shrimp = true
+				raccoon = true
+				fly = true
+				toucan = true
+				giant_squid = true
+				alligator_snapping_turtle = true
+				cachalot_whale = true
+				hummingbird = true
+				straddleboard = true
+				frilled_shark = true
+				bison = true
+				warped_toad = true
+				shoebill = true
+				anaconda_part = true
+				anaconda = true
+				flutter = true
+				sugar_glider = true
+				warped_mosco = true
+				void_worm = true
+				void_worm_part = true
+				tusklin = true
+				void_portal = true
+				tiger = true
+				tarantula_hawk = true
+				potoo = true
+				mudskipper = true
+				mimicube = true
+				froststalker = true
+				ice_shard = true
+				farseer = true
+				caiman = true
+				comb_jelly = true
+				cosmaw = true
+
+			[light_sources.settings.entities.quark]
+				wraith = true
+				shiba = true
+				forgotten = true
+				toretoise = true
+				stoneling = true
+				foxhound = true
+				crab = true
+
+			[light_sources.settings.entities.betterend]
+				dragonfly = true
+				cubozoa = true
+				shadow_walker = true
+				end_slime = true
+				silk_moth = true
+				end_fish = true
+
+			[light_sources.settings.entities.enlightened_end]
+				ringling = true
+				stalker = true
+				gloop = true
+				void_leviathan = true
+				fumesplat = true
+				floating_elevibloom = true
+				ooze_bubble = true
+
+			[light_sources.settings.entities.corpse]
+				corpse = true
+
+			[light_sources.settings.entities.aether]
+				sheepuff = true
+				phyg = true
+				flying_cow = true
+				aerbunny = true
+				blue_swet = true
+				golden_swet = true
+				whirlwind = true
+				zephyr = true
+				aerwhale = true
+				moa = true
+				golden_parachute = true
+				cockatrice = true
+				evil_whirlwind = true
+				aechor_plant = true
+
+			[light_sources.settings.entities.valkyrienskies]
+				ship_mounting_entity = true
+
+			[light_sources.settings.entities.twilightforest]
+				tiny_bird = true
+				raven = true
+				squirrel = true
+				dwarf_rabbit = true
+				boar = true
+				kobold = true
+				bighorn_sheep = true
+				yeti = true
+				slime_beetle = true
+				swarm_spider = true
+				skeleton_druid = true
+				winter_wolf = true
+				deer = true
+

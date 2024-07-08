@@ -1,0 +1,10 @@
+# Default config file that will be copied to saves\New World\serverconfig\ftbultimine-server.snbt if it doesn't exist!
+# Just copy any values you wish to override in here!
+
+{ 
+ultimine_cooldown: 100L
+max_blocks: 512
+exhaustion_per_block: 0.0d
+experience_per_block: 0.25d
+require_tool: true
+}

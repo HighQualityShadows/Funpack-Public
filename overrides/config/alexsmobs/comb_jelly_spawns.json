@@ -1,0 +1,37 @@
+{
+  "biomes": [
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:frozen_ocean"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "minecraft:deep_frozen_ocean"
+      }
+    ],
+    [
+      {
+        "type": "REGISTRY_NAME",
+        "negate": false,
+        "value": "alexscaves:abyssal_chasm"
+      }
+    ],
+	[
+      {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "forge:is_cold/overworld"
+      },
+	  {
+        "type": "BIOME_TAG",
+        "negate": false,
+        "value": "minecraft:is_ocean"
+      }
+    ]
+  ]
+}
