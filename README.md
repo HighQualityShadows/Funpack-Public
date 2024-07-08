@@ -1,4 +1,6 @@
-This is my first modpack that Im actually being organized with but I am pretty knowledgeable on modded minecraft and tech in general. The whole modpack idea came from making a more flushed out pack with all the mods I have found fun in servers I have hosted for my friend group. Forge 1.20.1 Plans:
+This is my first modpack that Im actually being organized with but I am pretty knowledgeable on modded minecraft and tech in general. The whole modpack idea came from making a more flushed out pack with all the mods I have found fun in servers I have hosted for my friend group. 
+
+Forge 1.20.1 Plans:
 
 Custom end game dimension that Ice and Fire and Gregtech stuff is locked to spawn in.
 Everything tweaked to keep a vanilla-like progression.
