@@ -21,4 +21,4 @@ This description and icon is temporary, they will be changed once the pack is fu
 Links:
 - [https://www.curseforge.com/minecraft/modpacks/shadows-funpack](https://www.curseforge.com/minecraft/modpacks/shadows-funpack)
 - [https://github.com/HighQualityShadows/Funpack-Public](https://github.com/HighQualityShadows/Funpack-Public)
-- [https://modrinth.com/project/shadows-funpack](https://modrinth.com/project/shadows-funpack)
+- I will not be posting the modpack to modrinth for now due to the FTB mods not being hosted there.
