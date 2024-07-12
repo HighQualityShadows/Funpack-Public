@@ -6,6 +6,7 @@
 ServerEvents.tags('block', event => {
 	event.add('ftbultimine:block_whitelist', '#forge:ores')
 	event.add('ftbultimine:block_whitelist', '#minecraft:logs')
+	event.add('ftbultimine:block_whitelist', 'minecraft:obsidian')
 	
 	console.log('Added ftbultimine block tags')
 })

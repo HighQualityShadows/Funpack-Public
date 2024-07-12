@@ -85,6 +85,9 @@
 				witch = true
 				spider = true
 				trident = true
+				lightning_bolt = true
+				egg = true
+				wandering_trader = true
 
 			[light_sources.settings.entities.alexscaves]
 				hullbreaker = true
@@ -108,6 +111,7 @@
 				relicheirus = true
 				raycat = true
 				radgill = true
+				burrowing_arrow = true
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
@@ -209,6 +213,7 @@
 				caiman = true
 				comb_jelly = true
 				cosmaw = true
+				gelada_monkey = true
 
 			[light_sources.settings.entities.quark]
 				wraith = true
@@ -218,6 +223,7 @@
 				stoneling = true
 				foxhound = true
 				crab = true
+				torch_arrow = true
 
 			[light_sources.settings.entities.betterend]
 				dragonfly = true
@@ -272,4 +278,11 @@
 				skeleton_druid = true
 				winter_wolf = true
 				deer = true
+
+			[light_sources.settings.entities.supplementaries]
+				rope_arrow = true
+
+			[light_sources.settings.entities.mowziesmobs]
+				ferrous_wroughtnaut = true
+				grottol = true
 
