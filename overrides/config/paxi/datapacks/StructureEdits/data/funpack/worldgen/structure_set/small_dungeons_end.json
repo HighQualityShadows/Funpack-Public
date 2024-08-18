@@ -1,0 +1,18 @@
+{
+  "structures": [
+    {
+      "structure": "additionalstructures:end_spawn_altar_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:end_spawn_altar_2",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 20,
+    "separation": 5,
+    "salt": 247386743
+  }
+}

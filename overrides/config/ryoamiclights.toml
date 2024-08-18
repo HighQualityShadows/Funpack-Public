@@ -88,6 +88,24 @@
 				lightning_bolt = true
 				egg = true
 				wandering_trader = true
+				potion = true
+				zoglin = true
+				area_effect_cloud = true
+				mule = true
+				firework_rocket = true
+				shulker = true
+				endermite = true
+				zombie_horse = true
+				skeleton_horse = true
+				stray = true
+				small_fireball = true
+				leash_knot = true
+				trader_llama = true
+				snow_golem = true
+				shulker_bullet = true
+				wither = true
+				wither_skull = true
+				ender_pearl = true
 
 			[light_sources.settings.entities.alexscaves]
 				hullbreaker = true
@@ -112,6 +130,18 @@
 				raycat = true
 				radgill = true
 				burrowing_arrow = true
+				magnetron = true
+				teletor = true
+				magnetic_weapon = true
+				boundroid = true
+				boundroid_winch = true
+				ferrouslime = true
+				notor = true
+				ink_bomb = true
+				corrodent = true
+				underzealot = true
+				vesper = true
+				gloomoth = true
 
 			[light_sources.settings.entities.betternether]
 				firefly = true
@@ -214,6 +244,13 @@
 				comb_jelly = true
 				cosmaw = true
 				gelada_monkey = true
+				bald_eagle = true
+				mimic_octopus = true
+				blobfish = true
+				jerboa = true
+				guster = true
+				rain_frog = true
+				moose = true
 
 			[light_sources.settings.entities.quark]
 				wraith = true
@@ -224,6 +261,7 @@
 				foxhound = true
 				crab = true
 				torch_arrow = true
+				glass_frame = true
 
 			[light_sources.settings.entities.betterend]
 				dragonfly = true
@@ -241,6 +279,10 @@
 				fumesplat = true
 				floating_elevibloom = true
 				ooze_bubble = true
+				projectile_flash_bomb = true
+				bouncer = true
+				activated_nuclear_bomb = true
+				falling_bounceling_nut = true
 
 			[light_sources.settings.entities.corpse]
 				corpse = true
@@ -281,8 +323,34 @@
 
 			[light_sources.settings.entities.supplementaries]
 				rope_arrow = true
+				hat_stand = true
 
 			[light_sources.settings.entities.mowziesmobs]
 				ferrous_wroughtnaut = true
 				grottol = true
+				naga = true
+				foliaath = true
+				umvuthana_follower_raptor = true
+				umvuthana_raptor = true
+				umvuthi = true
+				lantern = true
+				umvuthana = true
+
+			[light_sources.settings.entities.create]
+				crafting_blueprint = true
+				super_glue = true
+				stationary_contraption = true
+				gantry_contraption = true
+
+			[light_sources.settings.entities.irons_spellbooks]
+				necromancer = true
+				dead_king_corpse = true
+				priest = true
+				apothecarist = true
+				dead_king = true
+				archevoker = true
+				cryomancer = true
+				pyromancer = true
+				citadel_keeper = true
+				magic_missile = true
 

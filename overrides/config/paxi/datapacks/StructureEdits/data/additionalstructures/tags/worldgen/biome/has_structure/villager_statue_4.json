@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_badlands",
+	"#minecraft:is_forest",
+	"#minecraft:is_hill",
+	"#minecraft:is_jungle",
+	"#minecraft:is_mountain",
+	"#minecraft:is_savanna",
+	"#minecraft:is_taiga",
+	"#forge:is_desert",
+	"#forge:is_magical",
+	"#forge:is_mountain",
+	"#forge:is_mushroom",
+	"#forge:is_peak",
+	"#forge:is_plains",
+	"#forge:is_plateau",
+	"#forge:is_slope",
+	"#forge:is_snowy",
+	"#forge:is_spooky",
+	"#forge:is_swamp"
+  ]
+}

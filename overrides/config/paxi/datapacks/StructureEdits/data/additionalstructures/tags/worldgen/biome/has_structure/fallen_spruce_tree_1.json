@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:taiga",
+	"minecraft:snowy_taiga",
+	"minecraft:old_growth_pine_taiga",
+	"minecraft:old_growth_spruce_taiga",
+	"biomesoplenty:field",
+	"biomesoplenty:forested_field",
+	"regions_unexplored:frozen_tundra",
+	"biomesoplenty:mediterranean_forest"
+  ]
+}

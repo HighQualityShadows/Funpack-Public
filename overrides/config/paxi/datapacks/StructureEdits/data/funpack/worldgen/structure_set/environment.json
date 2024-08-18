@@ -1,0 +1,258 @@
+{
+  "structures": [
+    {
+      "structure": "additionalstructures:sandstone_totem_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:sandstone_totem_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:red_sandstone_totem_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:red_sandstone_totem_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:dead_tree_1",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:dead_tree_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:bush_1",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:bush_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:bush_3",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:bush_4",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:fallen_spruce_tree_1",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:fallen_spruce_tree_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:fallen_palm_tree_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:fallen_palm_tree_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:fallen_oak_tree_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:fallen_oak_tree_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:fallen_jungle_tree_1",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:fallen_dead_tree_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:fallen_dead_tree_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:fallen_dead_tree_3",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:jungle_tree_hole",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:bone_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:bone_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:ice_floes_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:ice_floes_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:log_bundle",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:flotsam_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:flotsam_3",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:meteor",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:oasis_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:obsidian_tree_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:obsidian_tree_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:obsidian_tree_3",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:obsidian_tree_4",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:obsidian_spike_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:obsidian_spike_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:obsidian_spike_3",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:desert_pillars_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:desert_pillars_2",
+      "weight": 1
+    },
+	 {
+      "structure": "additionalstructures:stone_rock_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:stone_rock_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:stone_rock_3",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:stone_rock_4",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:sandstone_rock_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:sandstone_rock_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:sandstone_rock_3",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:cobblestone_rock_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:cobblestone_rock_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:cobblestone_rock_3",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:wall_ruin_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:wall_ruin_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:shulker_cluster_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:shulker_cluster_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:suspicious_sand_patch_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:suspicious_sand_patch_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:suspicious_sand_patch_3",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:suspicious_sand_patch_4",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:suspicious_gravel_patch_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:suspicious_gravel_patch_2",
+      "weight": 1
+    },
+	 {
+      "structure": "additionalstructures:end_wall_ruin_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:end_wall_ruin_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:end_wall_ruin_3",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 12,
+    "separation": 4,
+    "salt": 70543520
+  }
+}

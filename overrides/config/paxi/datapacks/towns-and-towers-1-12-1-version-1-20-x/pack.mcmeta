@@ -1,0 +1,8 @@
+{
+    "pack": {
+        "pack_format": 32,
+        "supported_formats":{"min_inclusive": 18, "max_inclusive": 32},
+        "description": "New villages, pillager outposts, and even ships!",
+        "overlays":{"entries": [{"directory":"port-1-20-4", "formats":{"min_inclusive": 26, "max_inclusive": 32}}]}
+    }
+}

@@ -59,7 +59,7 @@
 	toggle_muddy_river = true
 	toggle_old_growth_bayou = true
 	toggle_orchard = false
-	toggle_outback = true
+	toggle_outback = false
 	toggle_pine_slopes = true
 	toggle_pine_taiga = true
 	toggle_poppy_fields = true

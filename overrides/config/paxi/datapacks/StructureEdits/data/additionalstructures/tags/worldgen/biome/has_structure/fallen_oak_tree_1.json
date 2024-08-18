@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:forest",
+	"minecraft:plains",
+	"regions_unexplored:grassland",
+	"biomesoplenty:woodland",
+	"biomesoplenty:old_growth_woodland"
+  ]
+}

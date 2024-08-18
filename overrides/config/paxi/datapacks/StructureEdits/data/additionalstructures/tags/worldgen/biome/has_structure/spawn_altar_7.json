@@ -1,0 +1,7 @@
+{
+  "replace": false,
+  "values": [
+	"#forge:is_spooky",
+	"#forge:is_swamp"
+  ]
+}

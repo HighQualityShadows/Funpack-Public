@@ -1,5 +1,5 @@
 type = customizablemenus
 
-com.sajmonoriginal.ftbchecker.MissingModsScreen {
+net.minecraft.client.gui.screens.PauseScreen {
 }
 

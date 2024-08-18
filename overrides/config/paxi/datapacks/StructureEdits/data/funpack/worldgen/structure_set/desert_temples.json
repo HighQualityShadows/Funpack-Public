@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "additionalstructures:pyramid_1",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:pyramid_dungeon",
+      "weight": 1
+    },
+	{
+      "structure": "minecraft:desert_pyramid",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:temple_1",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 8,
+    "salt": 14357617
+  }
+}

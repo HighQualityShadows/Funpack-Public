@@ -1,0 +1,50 @@
+{
+  "structures": [
+    {
+      "structure": "additionalstructures:pillar_ruin_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:pillar_ruin_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:pillar_ruin_3",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:end_pillar_ruin_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:end_pillar_ruin_2",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:ruin_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:end_ruin_1",
+      "weight": 1
+    },
+	{
+      "structure": "additionalstructures:stone_circle_1",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:stone_circle_2",
+      "weight": 1
+    },
+    {
+      "structure": "additionalstructures:stone_circle_3",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 30,
+    "separation": 15,
+    "salt": 50384294
+  }
+}
