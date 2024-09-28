@@ -29,7 +29,7 @@
   "mediterranean_forest_enabled": true,
   "moor_enabled": false,
   "muskeg_enabled": true,
-  "mystic_grove_enabled": false,
+  "mystic_grove_enabled": true,
   "old_growth_dead_forest_enabled": true,
   "old_growth_woodland_enabled": true,
   "ominous_woods_enabled": false,

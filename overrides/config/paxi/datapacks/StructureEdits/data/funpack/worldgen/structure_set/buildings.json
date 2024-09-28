@@ -43,11 +43,19 @@
     {
       "structure": "additionalstructures:farm_2",
       "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:miners_house",
+      "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:mushroom_house",
+      "weight": 1
     }
   ],
   "placement": {
     "type": "minecraft:random_spread",
-    "spacing": 50,
+    "spacing": 40,
     "separation": 25,
     "salt": 10393239
   }

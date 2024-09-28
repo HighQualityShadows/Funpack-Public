@@ -11,31 +11,5 @@
       "type": "url",
       "value": "https://spark.lucko.me/Ltqjhqji0r"
     }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "HiQualityShadows",
-      "uniqueId": "e08a25dd-ab12-45aa-84cb-c99791f37d03"
-    },
-    "time": 1721677155381,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/akOuZSIjge"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "HiQualityShadows",
-      "uniqueId": "e08a25dd-ab12-45aa-84cb-c99791f37d03"
-    },
-    "time": 1721676955856,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/GF5rYV5WMg"
-    }
   }
 ]

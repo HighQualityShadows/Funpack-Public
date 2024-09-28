@@ -1,0 +1,114 @@
+{
+  "structures": [
+    {
+      "structure": "dungeoncrawl:dungeon",
+      "weight": 11
+    },
+	{
+      "structure": "keebsz:stone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:cobblestone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:sandstone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:packed_ice_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:stonebrick_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:red_sandstone_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:stone_battletower_underground",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:cobblestone_battletower_underground",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:stonebrick_battletower_underground",
+      "weight": 1
+    },
+	{
+      "structure": "keebsz:sandstone_battletower_underground",
+      "weight": 1
+    },
+    {
+      "structure": "keebsz:bamboo_battletower",
+      "weight": 1
+    },
+	{
+      "structure": "totw_modded:aether",
+      "weight": 1
+    },
+	{
+      "structure": "totw_modded:end",
+      "weight": 1
+    },
+	{
+      "structure": "totw_modded:nether",
+      "weight": 1
+    },
+    {
+        "structure": "totw_modded:regular",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:desert",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:ice",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:derelict",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:derelict_grass",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:jungle",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:badlands",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:ocean_warm",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:ocean",
+        "weight": 1
+    },
+	{
+        "structure": "totw_modded:tw_mangrove",
+        "weight": 1
+    },
+    {
+        "structure": "totw_modded:tw_canopy",
+        "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 10387313,
+    "spacing": 45,
+    "separation": 25,
+    "type": "minecraft:random_spread"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_enhanced:fishing_ship",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 60,
+    "separation": 50,
+    "salt": 19491313
+  }
+}

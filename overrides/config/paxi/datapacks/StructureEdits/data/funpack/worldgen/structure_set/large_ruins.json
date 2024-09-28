@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_enhanced:hay_storage",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 60,
+    "separation": 30,
+    "salt": 153438957
+  }
+}

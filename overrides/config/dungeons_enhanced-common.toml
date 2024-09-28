@@ -88,7 +88,7 @@
 	# The biomes this structure should generate in. Use # to define a tag. Use ! to define a blacklist. If no values are set, the structure's default biomes will be used.
 	# Example: ["minecraft:plains, #minecraft:is_forest, !minecraft:birch_forest, !#minecraft:has_structure/woodland_mansion"]
 	# Default: ["#forge:is_plains", "#minecraft:is_forest", "#minecraft:is_taiga", "!#dungeons_enhanced:is_bad_for_structure", "!#forge:is_mountain", "!#forge:is_water"]
-	"dungeons_enhanced:large_dungeon" = ["#forge:is_plains", "#minecraft:is_forest", "#minecraft:is_taiga", "!#dungeons_enhanced:is_bad_for_structure", "!#forge:is_mountain", "!#forge:is_water"]
+	"dungeons_enhanced:large_dungeon" = ["#forge:is_plains", "#minecraft:is_forest", "#minecraft:is_taiga", "!#dungeons_enhanced:is_bad_for_structure", "!#forge:is_mountain", "!#forge:is_water", "!#minecraft:is_hill"]
 
 [miners_house]
 	#
@@ -109,7 +109,7 @@
 	# The biomes this structure should generate in. Use # to define a tag. Use ! to define a blacklist. If no values are set, the structure's default biomes will be used.
 	# Example: ["minecraft:plains, #minecraft:is_forest, !minecraft:birch_forest, !#minecraft:has_structure/woodland_mansion"]
 	# Default: ["minecraft:mushroom_fields"]
-	"dungeons_enhanced:mushroom_house" = ["minecraft:mushroom_fields"]
+	"dungeons_enhanced:mushroom_house" = ["#forge:is_mushroom", "minecraft:dark_forest", "!#forge:is_cave"]
 
 [pillager_camp]
 	#

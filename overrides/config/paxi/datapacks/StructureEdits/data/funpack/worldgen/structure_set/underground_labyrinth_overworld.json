@@ -1,0 +1,26 @@
+{
+  "structures": [
+    {
+      "structure": "dungeons_enhanced:deep_crypt",
+      "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:ice_pit",
+      "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:large_dungeon",
+      "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:monster_maze",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 55,
+    "separation": 40,
+    "salt": 1710877031
+  }
+}

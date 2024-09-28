@@ -2,19 +2,27 @@
   "structures": [
     {
       "structure": "additionalstructures:pyramid_1",
-      "weight": 1
+      "weight": 2
     },
 	{
       "structure": "additionalstructures:pyramid_dungeon",
-      "weight": 1
+      "weight": 2
     },
 	{
       "structure": "minecraft:desert_pyramid",
-      "weight": 1
+      "weight": 2
     },
 	{
       "structure": "additionalstructures:temple_1",
+      "weight": 2
+    },
+	{
+      "structure": "dungeons_enhanced:desert_temple",
       "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:desert_tomb",
+      "weight": 2
     }
   ],
   "placement": {

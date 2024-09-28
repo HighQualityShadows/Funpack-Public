@@ -39,6 +39,10 @@
     {
       "structure": "additionalstructures:stone_circle_3",
       "weight": 1
+    },
+	{
+      "structure": "dungeons_enhanced:druid_circle",
+      "weight": 1
     }
   ],
   "placement": {
